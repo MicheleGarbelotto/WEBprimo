@@ -1,5 +1,10 @@
 ---
 title: "WEBprimo"
+format:  
+  html: 
+    theme:
+      - minty
+      - brand
 ---
 
 This is a Quarto website.
