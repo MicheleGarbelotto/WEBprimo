@@ -5,6 +5,8 @@ date: 21/07/2025
 format: 
   html:
     self-contained: true
+    toc: true                 
+    toc-location: left    
 lang: en     
 ---
 
