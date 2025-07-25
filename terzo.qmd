@@ -2,13 +2,9 @@
 title: "terza pagina"
 ---
 
-per tornare alla home clicca [qui](index.qmd)
+per tornare alla home clicca 
 
 About this site
 
-```{r}
-1 + 1
-```
 
-asddddddddddasdasdasd
 
