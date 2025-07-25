@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "WEBprimo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\na"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,110 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "FirstPresentation.html",
+    "href": "FirstPresentation.html",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "",
+    "text": "Qui ricordati di parlare della terza guerra mondiale. Grafino non smooth, cavolo!\n\n\nmtcars %&gt;%                               \n  ggplot( aes(mpg, hp, size = gear)) +   \n  geom_point()                        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQui ricordati di parlare della seconda guerra punicica\n\n\n\n\n\n# Create a scatterplot with a smoothing function\nggplot(mtcars,\n       aes(mpg, hp, size = gear)) +\n  geom_point()\n\n\n\n\n\n\n\n\n\n\n\n\n# Create a scatterplot with a smoothing function\nggplot(mtcars,\n       aes(mpg, hp, size = gear)) +\n  geom_point() + \n  geom_smooth()\n\n\n\n\n\n\n\n\n\n\n\n\n# Create a scatterplot with a smoothing function\n\nggplot(mtcars,\n       aes(mpg, hp, size = gear)) +\n  geom_point() + \n  geom_smooth(method = \"lm\")  \n\n\n\n\n\n\n\n\n\n\n\n\n```{r}\n#| fig-align: center\n#| output-location: fragment\n#| code-line-numbers: \"|3|\"\n\nmtcars %&gt;%                               \n  ggplot( aes(mpg, hp, size = gear)) +   \n  geom_point()                         \n```"
+  },
+  {
+    "objectID": "FirstPresentation.html#evidenziando-i-codici-del-burger-graph",
+    "href": "FirstPresentation.html#evidenziando-i-codici-del-burger-graph",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "",
+    "text": "Qui ricordati di parlare della terza guerra mondiale. Grafino non smooth, cavolo!\n\n\nmtcars %&gt;%                               \n  ggplot( aes(mpg, hp, size = gear)) +   \n  geom_point()"
+  },
+  {
+    "objectID": "FirstPresentation.html#ma-quanto-smooth-è-questo-grafico-del-doppio-cheddar",
+    "href": "FirstPresentation.html#ma-quanto-smooth-è-questo-grafico-del-doppio-cheddar",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "",
+    "text": "Qui ricordati di parlare della seconda guerra punicica"
+  },
+  {
+    "objectID": "FirstPresentation.html#section",
+    "href": "FirstPresentation.html#section",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "",
+    "text": "# Create a scatterplot with a smoothing function\nggplot(mtcars,\n       aes(mpg, hp, size = gear)) +\n  geom_point()"
+  },
+  {
+    "objectID": "FirstPresentation.html#section-1",
+    "href": "FirstPresentation.html#section-1",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "",
+    "text": "# Create a scatterplot with a smoothing function\nggplot(mtcars,\n       aes(mpg, hp, size = gear)) +\n  geom_point() + \n  geom_smooth()"
+  },
+  {
+    "objectID": "FirstPresentation.html#section-2",
+    "href": "FirstPresentation.html#section-2",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "",
+    "text": "# Create a scatterplot with a smoothing function\n\nggplot(mtcars,\n       aes(mpg, hp, size = gear)) +\n  geom_point() + \n  geom_smooth(method = \"lm\")"
+  },
+  {
+    "objectID": "FirstPresentation.html#un-po-di-delay-per-il-burger-graph",
+    "href": "FirstPresentation.html#un-po-di-delay-per-il-burger-graph",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "",
+    "text": "```{r}\n#| fig-align: center\n#| output-location: fragment\n#| code-line-numbers: \"|3|\"\n\nmtcars %&gt;%                               \n  ggplot( aes(mpg, hp, size = gear)) +   \n  geom_point()                         \n```"
+  },
+  {
+    "objectID": "FirstPresentation.html#quattro-dipartimenti-principali",
+    "href": "FirstPresentation.html#quattro-dipartimenti-principali",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "Quattro dipartimenti principali",
+    "text": "Quattro dipartimenti principali\n\n\nMasticazione Consapevole (CMC)\nEtica del Gocciolamento del Formaggio (DEGF)\nSezione Spirituale del Panino (SSP)\nSorveglianza Psico-Sensoriale (CSPS)"
+  },
+  {
+    "objectID": "FirstPresentation.html#il-panino-sperimentale",
+    "href": "FirstPresentation.html#il-panino-sperimentale",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "Il panino sperimentale",
+    "text": "Il panino sperimentale\n\n\nDoppio cheddar stagionato 36 mesi\n\nSalsa “burro mentale”\n\nPane affumicato al legno di quercia celtica\n\nCarne allevata con jazz"
+  },
+  {
+    "objectID": "FirstPresentation.html#cansone-allegorico-sinfonica-del-burger-doppio-cheddar",
+    "href": "FirstPresentation.html#cansone-allegorico-sinfonica-del-burger-doppio-cheddar",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "Cansone allegorico-sinfonica del burger doppio cheddar",
+    "text": "Cansone allegorico-sinfonica del burger doppio cheddar\nTissilawen hit1\n\n\nTraduzione italiana di “Amidinine” dei Tissilawen Amidinine annas, Taad eddounia O amici, il mondo è cambiato, Toussas koud wa stejid Tutto passa e tutto si rinnova. Essas ihane imannek, Ayoussas La sofferenza umilia la tua fede, oh fratello mio.\nArrek′adem yeflass, Issan sa’dounia Le gambe tremano, la vita è dura. Terras wa′tribahou, Tiddas terakadem ayeflas Cammini nel fango, inciampi tra le difficoltà. Esmassinagh, Massas w djagh ibliss, Dakennas Ci hanno lasciati, ci hanno abbandonati al diavolo, tutti loro.\n(Ritornello) Amidinine annas, Taad eddounia O amici, il mondo è cambiato, Toussas koud wa stejid Tutto passa e tutto si rinnova. Essas ihane imannek, Ayoussas La sofferenza umilia la tua fede, oh fratello mio.\nWesh naḥki wesh n’khali Cosa dovrei dire e cosa dovrei tacere? Ana fi galbi cha’let nar Nel mio cuore arde un fuoco. Wast ḥchaya seknetli Dentro le parole si è fatta silenziosa la mia voce, Besbeb ez′men el ghadar A causa dei tempi del tradimento.\nYa li jralek ma jrali Tu che hai vissuto ciò che ho vissuto, Koli a′lech rani meḥtar Dimmi perché resto così confuso. W’dmou′i yechahdouli Le mie lacrime sono testimoni, Mel harqa y’silou ki l′mṭar Della bruciatura che cade come pioggia.\nAmidinine by Tissilawen"
+  },
+  {
+    "objectID": "FirstPresentation.html#conclusione",
+    "href": "FirstPresentation.html#conclusione",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "Conclusione",
+    "text": "Conclusione\nDopo anni di sperimentazioni al limite dell’immaginabile, il Comitato Etico Internazionale per la Sperimentazione del Cheeseburger con Doppio Cheddar arrivò a un momento di profonda crisi interna. Nonostante il successo scientifico e l’espansione globale delle sue attività, qualcosa era cambiato. Alcuni membri iniziarono a chiedersi se fosse ancora etico spingere oltre i confini della fusione casearia. Gli ultimi esperimenti avevano prodotto effetti inspiegabili: soggetti che sviluppavano improvvisi legami emotivi col panino, panini che cambiavano posizione quando nessuno guardava, e un caso isolato in cui un cheeseburger sembrò ruotarsi verso una telecamera durante un’intervista.\nQuesti segnali portarono il comitato a interrompere ogni attività. Per la prima volta dalla sua fondazione, il CEISCDC entrò in silenzio operativo. Nessun nuovo esperimento, nessuna nuova ricetta. I membri si ritirarono in una panetteria riconvertita a luogo di riflessione, evitando qualsiasi alimento fuso per quaranta giorni. Durante quel periodo emerse una consapevolezza comune: forse il problema non era il panino, ma la pretesa di dominarlo.\nQuando il comitato riapparve, non fu per annunciare nuove linee guida, ma per dichiarare la fine delle sperimentazioni. Nessun cheeseburger sarebbe più stato testato senza il consenso simbolico del formaggio stesso. Il CEISCDC non venne sciolto, ma si trasformò lentamente in un collettivo di osservazione filosofica del cibo. Le riunioni, un tempo scientifiche, si trasformarono in incontri contemplativi. I verbali diventarono racconti. Il linguaggio si fece più lento. Nessuno parlava più di morsi, ma di relazioni tra panino e persona.\nL’ultima comunicazione ufficiale del comitato fu una sola frase, diffusa attraverso il vapore di una griglia lasciata accesa al tramonto: “Non tutto ciò che è fuso è innocente.”\nDa allora, nessuno sa con certezza dove si trovino i membri. Alcuni dicono che si nascondano tra le cucine dei ristoranti più silenziosi del mondo. Altri sostengono che siano tornati al cheddar, sotto forma di sapore persistente.\nMa una cosa è certa: da quel giorno, nessuno ha più osato creare un panino con più di due strati di formaggio."
+  },
+  {
+    "objectID": "FirstPresentation.html#foto-cheeseburger-doppio-cheddar",
+    "href": "FirstPresentation.html#foto-cheeseburger-doppio-cheddar",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "Foto cheeseburger doppio cheddar",
+    "text": "Foto cheeseburger doppio cheddar\n\nCheeseburger con doppio cheddar percepito (da te osservatore) visivamente"
+  },
+  {
+    "objectID": "FirstPresentation.html#footnotes",
+    "href": "FirstPresentation.html#footnotes",
+    "title": "Il Comitato Etico del Cheeseburger con Doppio Cheddar",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAscolta questa canzone Algerina Amidinine by Tissilawen↩︎"
+  },
+  {
+    "objectID": "ABC.html",
+    "href": "ABC.html",
+    "title": "FirstQuartoDocument",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see"
+  },
+  {
+    "objectID": "ABC.html#quarto",
+    "href": "ABC.html#quarto",
+    "title": "FirstQuartoDocument",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see"
   }
 ]

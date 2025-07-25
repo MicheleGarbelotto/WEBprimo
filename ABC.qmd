@@ -1,0 +1,14 @@
+---
+title: "FirstQuartoDocument"
+author: "MySelf"
+date: 21/07/2025
+format: 
+  html:
+    self-contained: true
+lang: en     
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see 
+
