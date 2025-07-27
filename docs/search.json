@@ -123,11 +123,25 @@
     "href": "terzo.html",
     "title": "Terza pagina",
     "section": "",
-    "text": "per tornare alla home clicca qui"
+    "text": "per tornare alla home clicca qui. Cliccalo."
   },
   {
     "objectID": "QuartoLOL.html",
     "href": "QuartoLOL.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "asdasdasdasd"
+  },
+  {
+    "objectID": "QuartaP.html",
+    "href": "QuartaP.html",
+    "title": "Quarta pagina",
+    "section": "",
+    "text": "per tornare alla home clicca qui"
+  },
+  {
+    "objectID": "docs/quartoLOL.html",
+    "href": "docs/quartoLOL.html",
     "title": "Untitled",
     "section": "",
     "text": "asdasdasdasd"

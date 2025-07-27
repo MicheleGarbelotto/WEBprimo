@@ -1,6 +1,11 @@
 ---
 title: "Terza pagina"
+format:  
+  html: 
+    theme:
+      - minty
+      - brand
 ---
 
-per tornare alla home clicca [qui](index.qmd)
+per tornare alla home clicca [qui](index.qmd). Cliccalo.
 
