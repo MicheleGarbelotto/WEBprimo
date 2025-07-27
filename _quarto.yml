@@ -9,9 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Seconda pagina
+        text: seconda pagina
       - href: terzo.qmd
-        text: Terza
+        text: terza pagina
 
 format:
   html:

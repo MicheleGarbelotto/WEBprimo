@@ -7,5 +7,5 @@ format:
       - brand
 ---
 
-per tornare alla home clicca [qui](index.qmd). Cliccalo.
+per tornare alla home clicca [qui](index.qmd).
 
