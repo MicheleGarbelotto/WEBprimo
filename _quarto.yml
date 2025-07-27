@@ -12,6 +12,8 @@ website:
         text: seconda pagina
       - href: terzo.qmd
         text: terza pagina
+      - href: terzo.qmd
+        text: quarta pagina
 
 format:
   html:
