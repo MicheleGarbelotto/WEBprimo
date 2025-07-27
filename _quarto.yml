@@ -11,7 +11,7 @@ website:
       - href: about.qmd
         text: Seconda pagina
       - href: terzo.qmd
-        text: Terza pagina
+        text: Terza
 
 format:
   html:
