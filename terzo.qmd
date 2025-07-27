@@ -1,5 +1,5 @@
 ---
-title: "terza pagina"
+title: "Terza pagina"
 ---
 
 per tornare alla home clicca [qui](index.qmd)
